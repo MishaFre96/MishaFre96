@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F9D58,100:00C9FF&height=280&section=header&text=Mykhaylo%20Freyishyn&fontSize=50&fontColor=ffffff&animation=twinkling&desc=Aspiring%20Backend%20Developer&descAlignY=90&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F9D58,100:00C9FF&height=280&section=header&text=Mykhaylo%20Freyishyn&fontSize=50&fontColor=ffffff&animation=twinkling&desc=Aspiring%20Backend%20Developer&descAlignY=70&descAlign=50" />
 </p>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=28&color=00FF7F&center=true&vCenter=true&width=700&lines=Java+%7C+Currently+Learning+Spring+Boot+(Hyperskill);Git+%7C+Learning+Maven" />
